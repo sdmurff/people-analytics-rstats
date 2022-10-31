@@ -76,7 +76,7 @@ To be able to:
 | Mon, Nov 28 | Hands-on Project I | 
 |               | - Option A - [US Grocery Chain Procurement Staff Network](https://rstudio-conf-2022.github.io/people-analytics-rstats/materials/talks/7A-Project_US_Grocery_Purchasing_Network.html#1) | 
 | Wed, Nov 30 | Hands-on Project II - [Grocery Performance Evaluations](https://rstudio-conf-2022.github.io/people-analytics-rstats/materials/talks/8-Project_Grocery_Evaluations.html#1)        | 
-| Mon, Dec 5 | [Module Wrap-up](https://rstudio-conf-2022.github.io/people-analytics-rstats/materials/talks/9-Wrapping_up.html) | 
+| Mon, Dec 5 | [Student Presentations and Module Wrap-up](https://rstudio-conf-2022.github.io/people-analytics-rstats/materials/talks/9-Wrapping_up.html) | 
 
 ## Credits
 
