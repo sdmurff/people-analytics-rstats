@@ -10,7 +10,6 @@ Borrowed from Keith McNulty + Alex LoPilato + Liz Romero of McKinsey & Company, 
 :spiral_calendar: Fall 2022 
 :alarm_clock:     5:00-6:15pm  
 :hotel:           TNRB 130  
-:writing_hand:    [rstd.io/peopleanalytics](http://rstd.io/peopleanalytics)
 
 -----
 
