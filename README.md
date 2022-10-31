@@ -1,15 +1,15 @@
 R for People Analytics
 ================
 
-### rstudio::conf 2022
+### STRAT 490R
 
-by Keith McNulty + Alex LoPilato + Liz Romero
+Borrowed from Keith McNulty + Alex LoPilato + Liz Romero of McKinsey & Company, edits by Scott Murff
 
 -----
 
-:spiral_calendar: July 25 and 26, 2022  
-:alarm_clock:     09:00 - 17:00  
-:hotel:           Chesapeake E  
+:spiral_calendar: Fall 2022 
+:alarm_clock:     5:00-6:15pm  
+:hotel:           TNRB 130  
 :writing_hand:    [rstd.io/peopleanalytics](http://rstd.io/peopleanalytics)
 
 -----
