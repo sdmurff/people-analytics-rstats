@@ -3,7 +3,7 @@ R for People Analytics
 
 ### STRAT 490R
 
-Borrowed from Keith McNulty + Alex LoPilato + Liz Romero of McKinsey & Company, edits by Scott Murff
+Materials created by Keith McNulty + Alex LoPilato + Liz Romero of McKinsey & Company with edits by Scott Murff
 
 -----
 
