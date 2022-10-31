@@ -85,6 +85,7 @@ These materials where created by practitioners and R experts from the People Ana
 - Keith McNulty, who is an applied mathematician and a leading technical expert and author in the field of people analytics  
 - Alex LoPilato, who is a quantitative psychologist with extensive experience in the measurement and analysis of surveys and other psychometric data
 - Liz Romero, who is an applied statistician with extensive experience in the engineering and modeling of people-related data
+- Scott Murff, who is a full-stack data scientist and translator with extensive experience analyzing data and developing statistical models in the Risk, Banking, B2B Sales, and People domains
 
 -----
 
