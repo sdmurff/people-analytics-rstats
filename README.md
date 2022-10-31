@@ -15,7 +15,7 @@ Materials created by Keith McNulty + Alex LoPilato + Liz Romero of McKinsey & Co
 
 ## Overview
 
-The course took place at the RStudio Conference on July 25th-26th 2022.  It covered some of the most commonly used methods of analysis and inference when working with data related to people, such as performance data and organizational network data. Among other things, you will learn about:
+This module will cover some of the most commonly used methods of analysis and inference when working with data related to people, such as performance data and organizational network data. Among other things, you will learn about:
 * Typical explanatory analyses conducted on people data
 * Common people-related data types 
 * Common hypothesis testing methods
@@ -23,7 +23,7 @@ The course took place at the RStudio Conference on July 25th-26th 2022.  It cove
 * How to use graphs to model network relationships 
 * How to analyze and draw inferences about people networks
 
-You will learn by working through code and data examples with instructors and faculty, including final data projects where you will have a chance to put all your learning into practice.
+You will learn from class discussions and by working through code and data examples including a final data projects where you will have a chance to put all your learning into practice.
 
 ## Learning objectives
 
@@ -33,27 +33,15 @@ To be able to:
 * Understand how to construct, visualize and analyze organizational or people networks 
 * Use integrated data science documents to execute analyses and explain methods and results based on all the above.
 
-## Is this course for me?
-
-This course will be valuable to you if: 
- 
-- You currently work or intend to work in a people-related discipline. 
-
-- You have a basic working knowledge of R and RStudio. 
-
-- You are interested in learning applied statistical methods that are commonly used to understand and draw conclusions about the skills, behaviors and attitudes of people and groups.  
- 
-The course is ideal for someone who is likely to study quantitative social science disciplines to an advanced level, as well as those working in quantitative Human Resources roles in organizations.
-
 ## Prework
 
-* **Essential:**  Register for an RStudio Cloud account at https://rstudio.cloud
-* *Optional:* Obtain a github account at https://github.com to participate in Github discussions
+* Register for an RStudio Cloud account at https://rstudio.cloud
+* Obtain a github account at https://github.com
 
 
 ## Schedule
 
-### Day 1
+### Weeks 1 and 2
 
 | Time          | Activity         | 
 | :------------ | :--------------- | 
@@ -73,7 +61,7 @@ The course is ideal for someone who is likely to study quantitative social scien
 |               | - Survival analysis ([Assignment Solutions](https://rstudio-conf-2022.github.io/people-analytics-rstats/materials/module-exercises/04-survival_analysis-SOLUTIONS.html))                    | 
 |               | - Important methods we couldn't cover              | 
 
-### Day 2
+### Weeks 3 and 4
 
 | Time          | Activity         | 
 | :------------ | :--------------- | 
