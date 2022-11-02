@@ -1,7 +1,7 @@
 ---
-title: "Welcome to R for People Analytics"
+title: "Welcome to People Analytics using R"
 subtitle: "Introduction and Preliminaries"
-author: "<b>rstudio::</b>conf(2022)"
+author: "Materials by Keith McKnulty with revisions by Scott Murff"
 output:
   xaringan::moon_reader:
     css: "style.css"
@@ -131,21 +131,6 @@ class: left, middle, rstudio-logo, reallybigfont
 class: left, middle, rstudio-logo, reallybigfont 
 
 
----
-class: left, middle, rstudio-logo, reallybigfont 
-
-## How to get help
-
-<table>
-  <tr>
-    <td class='box lightblue'></td>
-    <td valign="middle">&#129395; I'm finished - all good!</td>
-  </tr>
-  <tr>
-    <td class='box pink'></td>
-    <td valign="middle">&#128533; I could use some help!</td>
-  </tr>
-</table>
 
 ---
 class: left, middle, rstudio-logo 
@@ -463,6 +448,4 @@ Let's work on **Exercises 5 and 6**.
 
 ---
 class: left, middle, rstudio-logo 
-
-# &#9749; Let's have a break! &#128524;
 

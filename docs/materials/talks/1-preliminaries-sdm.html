@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="" xml:lang="">
   <head>
-    <title>Welcome to R for People Analytics</title>
+    <title>Welcome to People Analytics using R</title>
     <meta charset="utf-8" />
-    <meta name="author" content="rstudio::conf(2022)" />
-    <script src="1-preliminaries_files/header-attrs/header-attrs.js"></script>
+    <meta name="author" content="Materials by Keith McKnulty with revisions by Scott Murff" />
+    <script src="1-preliminaries-sdm_files/header-attrs/header-attrs.js"></script>
     <link rel="stylesheet" href="style.css" type="text/css" />
   </head>
   <body>
@@ -12,13 +12,13 @@
 class: center, middle, inverse, title-slide
 
 .title[
-# Welcome to R for People Analytics
+# Welcome to People Analytics using R
 ]
 .subtitle[
 ## Introduction and Preliminaries
 ]
 .author[
-### <b>rstudio::</b>conf(2022)
+### Materials by Keith McKnulty with revisions by Scott Murff
 ]
 
 ---
@@ -33,9 +33,9 @@ class: left, middle, rstudio-logo, bigfont
 
 What I hope you can say at the end of this module: 
 
-&amp;#129489;&amp;#8205;&amp;#127891; You've learned a lot about some important methods for you work
+&amp;#129489;&amp;#8205;&amp;#127891; You've learned a lot tools and concepts that will be of great service to you in your future endeavors
 &amp;#127881; You've had fun  
-&amp;#128075; You've gotten to know your classmates better
+&amp;#128075; You've built lasting relationships with classmates
 
 
 ---
@@ -56,7 +56,7 @@ class: left, middle, rstudio-logo
 
 &gt; "People analytics is a data-driven approach to understanding people related phenomena."
 &gt;
-&gt; &lt;footer&gt;--- Keith&lt;/footer&gt;
+&gt; &lt;footer&gt;--- Keith McKnulty, McKinsey &amp; Company&lt;/footer&gt;
 
 ---
 class: left, middle, rstudio-logo 
@@ -84,8 +84,8 @@ Explanatory modeling uses a sample of data to draw inferences about the potentia
 &lt;b&gt;Examples:&lt;/b&gt;  
 
 * Does working schedule and/or pay rate influence likelihood to leave an organization?
-* Does academic performance in earlier years of a program influence academic performance in the final year?
 * Do certain demographic factors influence choice of career?
+* Does performance in a job interview predict future job performance ratings
 
 ---
 class: left, middle, rstudio-logo 
@@ -109,7 +109,7 @@ Network analysis uses graph theory to store, visualize and analyze data on relat
 
 &lt;b&gt;Examples:&lt;/b&gt;  
 
-* Who are the important or influential actors in a group?
+* Who are the most influential people in a group?
 * Are there 'hidden but important' subgroups?
 * What factors drive connection in an organization?
 
@@ -131,39 +131,16 @@ class: left, middle, rstudio-logo, reallybigfont
 
 ## How we will learn
 
-&amp;#128105;&amp;#8205;&amp;#127979;  Talks and instruction
+&amp;#128105;&amp;#8205;&amp;#127979;  Lecture and discussion
 
 &amp;#128104;&amp;#127997;&amp;#8205;&amp;#128187; Frequent short coding exercises 
 
 &amp;#129337; Project work 
 
-&amp;#128562; A few other things
-
 ---
 class: left, middle, rstudio-logo, reallybigfont 
 
-## How to ask questions
 
-&amp;#128227;  Ask instructors or TAs (during breaks if possible!)
-
-&amp;#128187;  Post to our [Github Discussions](https://github.com/rstudio-conf-2022/people-analytics-rstats/discussions) page!
-
-
----
-class: left, middle, rstudio-logo, reallybigfont 
-
-## How to get help
-
-&lt;table&gt;
-  &lt;tr&gt;
-    &lt;td class='box lightblue'&gt;&lt;/td&gt;
-    &lt;td valign="middle"&gt;&amp;#129395; I'm finished - all good!&lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td class='box pink'&gt;&lt;/td&gt;
-    &lt;td valign="middle"&gt;&amp;#128533; I could use some help!&lt;/td&gt;
-  &lt;/tr&gt;
-&lt;/table&gt;
 
 ---
 class: left, middle, rstudio-logo 
@@ -562,7 +539,7 @@ Base R has functions like `plot()` for simple X-Y plots, and `boxplot()` or `his
 plot(ugtests$Yr1, ugtests$Final)
 ```
 
-&lt;img src="1-preliminaries_files/figure-html/unnamed-chunk-21-1.png" height="300" style="display: block; margin: auto;" /&gt;
+&lt;img src="1-preliminaries-sdm_files/figure-html/unnamed-chunk-21-1.png" height="300" style="display: block; margin: auto;" /&gt;
 
 ---
 class: left, middle, rstudio-logo 
@@ -581,7 +558,7 @@ ggplot(ugtests, aes(x = Yr1, y = Final)) +
   theme_minimal()
 ```
 
-&lt;img src="1-preliminaries_files/figure-html/unnamed-chunk-22-1.png" height="300" style="display: block; margin: auto;" /&gt;
+&lt;img src="1-preliminaries-sdm_files/figure-html/unnamed-chunk-22-1.png" height="300" style="display: block; margin: auto;" /&gt;
 
 ---
 class: left, middle, rstudio-logo 
@@ -597,7 +574,7 @@ library(GGally)
 GGally::ggpairs(ugtests)
 ```
 
-&lt;img src="1-preliminaries_files/figure-html/unnamed-chunk-23-1.png" height="300" style="display: block; margin: auto;" /&gt;
+&lt;img src="1-preliminaries-sdm_files/figure-html/unnamed-chunk-23-1.png" height="300" style="display: block; margin: auto;" /&gt;
 
 ---
 class: left, middle, rstudio-logo 
@@ -623,8 +600,6 @@ Let's work on **Exercises 5 and 6**.
 
 ---
 class: left, middle, rstudio-logo 
-
-# &amp;#9749; Let's have a break! &amp;#128524;
 
     </textarea>
 <style data-target="print-only">@media screen {.remark-slide-container{display:block;}.remark-slide-scaler{box-shadow:none;}}</style>
