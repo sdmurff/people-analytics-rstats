@@ -5,8 +5,6 @@ R for People Analytics
 
 Materials created by Keith McNulty + Alex LoPilato + Liz Romero of McKinsey & Company with edits by Scott Murff
 
-Testing
-
 -----
 
 :spiral_calendar: Fall 2022 
