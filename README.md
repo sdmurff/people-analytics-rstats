@@ -62,21 +62,20 @@ To be able to:
 
 | Day          | Activity         | 
 | :------------ | :--------------- | 
-| Mon, Nov 21 | [Network Analysis I](https://rstudio-conf-2022.github.io/people-analytics-rstats/materials/talks/5-working_with_and_visualizing_graphs.html#1)       | 
+| Wed, Nov 30 | [Network Analysis I](https://rstudio-conf-2022.github.io/people-analytics-rstats/materials/talks/5-working_with_and_visualizing_graphs.html#1)       | 
 |               | - Basic graph theory | 
 |               | - Working with graphs in R  | 
 |               | - Visualizing graphs in R | 
 |               | - [Assignment Solutions](https://rstudio-conf-2022.github.io/people-analytics-rstats/materials/module-exercises/05-Creating_and_visualizing_graphs---SOLUTIONS.html) | 
-| Wed, Nov 23 | [Network Analysis II](https://rstudio-conf-2022.github.io/people-analytics-rstats/materials/talks/6-graph_metrics.html)       | 
+| Mon, Dec 5 | [Network Analysis II](https://rstudio-conf-2022.github.io/people-analytics-rstats/materials/talks/6-graph_metrics.html)       | 
 |               | - Paths and distance  | 
 |               | - Vertex importance and centrality | 
 |               | - Community detection  | 
 |               | - Assortativity and Similarity | 
 |               | - [Assignment Solutions](https://rstudio-conf-2022.github.io/people-analytics-rstats/materials/module-exercises/06-Graph_metrics---SOLUTIONS.html) 
-| Mon, Nov 28 | Hands-on Project I | 
-|               | - Option A - [US Grocery Chain Procurement Staff Network](https://rstudio-conf-2022.github.io/people-analytics-rstats/materials/talks/7A-Project_US_Grocery_Purchasing_Network.html#1) | 
-| Wed, Nov 30 | Hands-on Project II - [Grocery Performance Evaluations](https://rstudio-conf-2022.github.io/people-analytics-rstats/materials/talks/8-Project_Grocery_Evaluations.html#1)        | 
-| Mon, Dec 5 | [Student Presentations and Module Wrap-up](https://rstudio-conf-2022.github.io/people-analytics-rstats/materials/talks/9-Wrapping_up.html) | 
+| TBD | Hands-on Project I | 
+|               | [US Grocery Chain Procurement Staff Network](https://rstudio-conf-2022.github.io/people-analytics-rstats/materials/talks/7A-Project_US_Grocery_Purchasing_Network.html#1) | 
+|TBD| Hands-on Project II - [Grocery Performance Evaluations](https://rstudio-conf-2022.github.io/people-analytics-rstats/materials/talks/8-Project_Grocery_Evaluations.html#1)        | 
 
 ## Credits
 
