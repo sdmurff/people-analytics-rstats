@@ -7,9 +7,9 @@ Materials created by Keith McNulty + Alex LoPilato + Liz Romero of McKinsey & Co
 
 -----
 
-:spiral_calendar: Fall 2022 
+:spiral_calendar: Winter 2023
 :alarm_clock:     5:00-6:15pm  
-:hotel:           TNRB 130  
+:hotel:           TNRB 120  
 
 -----
 
