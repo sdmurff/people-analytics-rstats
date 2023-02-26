@@ -41,41 +41,20 @@ To be able to:
 
 ## Schedule
 
-### Weeks 1 and 2
-
 | Day          | Activity         | 
 | :------------ | :--------------- | 
-| Wed, Nov 2 | [Preliminaries](https://rstudio-conf-2022.github.io/people-analytics-rstats/materials/talks/1-preliminaries.html#1)      | Keith McNulty |
-|               | - Welcome and intros   | 
-|               | - Review of R fundamentals ([Assignment Solutions](https://rstudio-conf-2022.github.io/people-analytics-rstats/materials/module-exercises/01-R_fundamentals---SOLUTIONS.html))  | 
-| Wed, Nov 9 | [Explanatory Methods I](https://rstudio-conf-2022.github.io/people-analytics-rstats/materials/talks/2-inference_and_linear_regression.html#1) |
-|               | - Statistical inference and hypothesis testing ([Assignment Solutions](https://rstudio-conf-2022.github.io/people-analytics-rstats/materials/module-exercises/02A-Statistical_Inference---SOLUTIONS.html))   | 
-|               | - Linear regression ([Assignment Solutions](https://rstudio-conf-2022.github.io/people-analytics-rstats/materials/module-exercises/02B-Linear_regression---SOLUTIONS.html)) | 
-| Mon, Nov 14 | [Explanatory Methods II](https://rstudio-conf-2022.github.io/people-analytics-rstats/materials/talks/3-binomial_and_ordinal_regression.html) | 
-|               | - Binomial logistic regression ([Assignment Solutions](https://rstudio-conf-2022.github.io/people-analytics-rstats/materials/module-exercises/03A-Binomial_regression---SOLUTIONS.html)) | 
-|               | - Ordinal regression ([Assignment Solutions](https://rstudio-conf-2022.github.io/people-analytics-rstats/materials/module-exercises/03B-Ordinal_regression---SOLUTIONS.html)) | 
-| Wed, Nov 16 | [Advanced Explanatory Methods](https://rstudio-conf-2022.github.io/people-analytics-rstats/materials/talks/4-advanced_explanatory_methods.html) | 
-|               | - Survival analysis ([Assignment Solutions](https://rstudio-conf-2022.github.io/people-analytics-rstats/materials/module-exercises/04-survival_analysis-SOLUTIONS.html))                    | 
-|               | - Important methods we couldn't cover              | 
-
-### Weeks 3 and 4
-
-| Day          | Activity         | 
-| :------------ | :--------------- | 
-| Wed, Nov 30 | [Network Analysis I](https://rstudio-conf-2022.github.io/people-analytics-rstats/materials/talks/5-working_with_and_visualizing_graphs.html#1)       | 
-|               | - Basic graph theory | 
-|               | - Working with graphs in R  | 
-|               | - Visualizing graphs in R | 
-|               | - [Assignment Solutions](https://rstudio-conf-2022.github.io/people-analytics-rstats/materials/module-exercises/05-Creating_and_visualizing_graphs---SOLUTIONS.html) | 
-| Mon, Dec 5 | [Network Analysis II](https://rstudio-conf-2022.github.io/people-analytics-rstats/materials/talks/6-graph_metrics.html)       | 
-|               | - Paths and distance  | 
-|               | - Vertex importance and centrality | 
-|               | - Community detection  | 
+| Thurs, Feb 16 | - Basic graph theory | 
+| Thurs, Feb 23 | - Working with graphs in R  | 
+|               | - Visualizing graphs in R |        
+|               | - Homework Assigned: Graph LinkedIn network (nodes are names of connections and their associated companies). DUE: March 2
+|Lecture Slides | [Network Analysis I](https://rstudio-conf-2022.github.io/people-analytics-rstats/materials/talks/5-working_with_and_visualizing_graphs.html#1)       |
+|               | - [Network Analysis Example Solutions](https://rstudio-conf-2022.github.io/people-analytics-rstats/materials/module-exercises/05-Creating_and_visualizing_graphs---SOLUTIONS.html) | 
+| Feb 28        | - Paths and distance  | 
+|             | - Vertex importance and centrality | 
+| March 2       | - Community detection  | 
 |               | - Assortativity and Similarity | 
+| Lecture Slides| [Network Analysis II](https://rstudio-conf-2022.github.io/people-analytics-rstats/materials/talks/6-graph_metrics.html)   
 |               | - [Assignment Solutions](https://rstudio-conf-2022.github.io/people-analytics-rstats/materials/module-exercises/06-Graph_metrics---SOLUTIONS.html) 
-| TBD | Hands-on Project I | 
-|               | [US Grocery Chain Procurement Staff Network](https://rstudio-conf-2022.github.io/people-analytics-rstats/materials/talks/7A-Project_US_Grocery_Purchasing_Network.html#1) | 
-|TBD| Hands-on Project II - [Grocery Performance Evaluations](https://rstudio-conf-2022.github.io/people-analytics-rstats/materials/talks/8-Project_Grocery_Evaluations.html#1)        | 
 
 ## Credits
 
