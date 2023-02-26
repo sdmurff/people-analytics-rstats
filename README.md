@@ -43,18 +43,10 @@ To be able to:
 
 | Day          | Activity         | 
 | :------------ | :--------------- | 
-| Thurs, Feb 16 | - Basic graph theory | 
-| Thurs, Feb 23 | - Working with graphs in R  | 
-|               | - Visualizing graphs in R |        
-|               | - Homework Assigned: Graph LinkedIn network (nodes are names of connections and their associated companies). DUE: March 2
-|Lecture Slides | [Network Analysis I](https://rstudio-conf-2022.github.io/people-analytics-rstats/materials/talks/5-working_with_and_visualizing_graphs.html#1)       |
-|               | - [Network Analysis Example Solutions](https://rstudio-conf-2022.github.io/people-analytics-rstats/materials/module-exercises/05-Creating_and_visualizing_graphs---SOLUTIONS.html) | 
-| Feb 28        | - Paths and distance  | 
-|             | - Vertex importance and centrality | 
-| March 2       | - Community detection  | 
-|               | - Assortativity and Similarity | 
-| Lecture Slides| [Network Analysis II](https://rstudio-conf-2022.github.io/people-analytics-rstats/materials/talks/6-graph_metrics.html)   
-|               | - [Assignment Solutions](https://rstudio-conf-2022.github.io/people-analytics-rstats/materials/module-exercises/06-Graph_metrics---SOLUTIONS.html) 
+| Thurs, Feb 16 | - Basic graph theory <br> - **Lecture Slides:**  [Network Analysis I](https://rstudio-conf-2022.github.io/people-analytics-rstats/materials/talks/5-working_with_and_visualizing_graphs.html#1) | 
+| Thurs, Feb 23 | - Working with graphs in R <br> - Visualizing graphs in R <br> - **Homework Assigned**: Graph your personal LinkedIn network (nodes are names of connections and their associated companies). DUE: March 2 <br> - **Lecture Slides:**  [Network Analysis I](https://rstudio-conf-2022.github.io/people-analytics-rstats/materials/talks/5-working_with_and_visualizing_graphs.html#1) <br> - **Code Starter:** [Network Analysis Example Solutions](https://rstudio-conf-2022.github.io/people-analytics-rstats/materials/module-exercises/05-Creating_and_visualizing_graphs---SOLUTIONS.html) | 
+| Tues, Feb 28        | - Paths and distance  <br> - Vertex importance and centrality <br> **Lecture Slides:** [Network Analysis II](https://rstudio-conf-2022.github.io/people-analytics-rstats/materials/talks/6-graph_metrics.html)  | 
+| Thurs, March 2       | - Community detection  <br> - Assortativity and Similarity <br> **Lecture Slides:** [Network Analysis II](https://rstudio-conf-2022.github.io/people-analytics-rstats/materials/talks/6-graph_metrics.html) <br> **Code Starter:** [Example Solutions](https://rstudio-conf-2022.github.io/people-analytics-rstats/materials/module-exercises/06-Graph_metrics---SOLUTIONS.html) 
 
 ## Credits
 
