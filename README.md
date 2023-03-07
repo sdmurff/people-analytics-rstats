@@ -47,6 +47,10 @@ To be able to:
 | Thurs, Feb 23 | - Working with graphs in R <br> - Visualizing graphs in R <br> - **Homework Assigned**: Graph your personal LinkedIn network (nodes are names of connections and their associated companies). DUE: March 2 <br> - **Lecture Slides:**  [Network Analysis I](https://rstudio-conf-2022.github.io/people-analytics-rstats/materials/talks/5-working_with_and_visualizing_graphs.html#1) <br> - **Code Starter:** [Network Analysis Example Solutions](https://rstudio-conf-2022.github.io/people-analytics-rstats/materials/module-exercises/05-Creating_and_visualizing_graphs---SOLUTIONS.html) | 
 | Tues, Feb 28        | - Paths and distance  <br> - Vertex importance and centrality <br> **Lecture Slides:** [Network Analysis II](https://rstudio-conf-2022.github.io/people-analytics-rstats/materials/talks/6-graph_metrics.html)  | 
 | Thurs, March 2       | **Homework Due**: Graph your personal LinkedIn network (nodes are names of connections and their associated companies). <br> - Community detection  <br> - Assortativity and Similarity <br> **Lecture Slides:** [Network Analysis II](https://rstudio-conf-2022.github.io/people-analytics-rstats/materials/talks/6-graph_metrics.html) <br> **Code Starter:** [Example Solutions](https://rstudio-conf-2022.github.io/people-analytics-rstats/materials/module-exercises/06-Graph_metrics---SOLUTIONS.html) 
+| Tues, March 7      |
+| Thurs, March 9       |
+| Tues, March 14       |
+| Thurs, March 16       |
 
 ## Credits
 
