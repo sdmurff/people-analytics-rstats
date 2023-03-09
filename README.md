@@ -50,7 +50,7 @@ To be able to:
 | Tues, Mar 7      | -Community detection <br> **Lecture Slides:** [Network Analysis II](https://rstudio-conf-2022.github.io/people-analytics-rstats/materials/talks/6-graph_metrics.html) <br> **Code Starter:** [Example Solutions](https://rstudio-conf-2022.github.io/people-analytics-rstats/materials/module-exercises/06-Graph_metrics---SOLUTIONS.html) 
 | Thurs, Mar 9       | R and LinkedIn Data Project
 | Tues, Mar 14       | R and LinkedIn Data Project
-| Thurs, Mar 16       | Intellectual Property Graph Analytics Case Study <br> **DUE: HW2-LinkedI Data Project**
+| Thurs, Mar 16       | Intellectual Property Graph Analytics Case Study <br> **DUE: HW2-LinkedIn Data Project**
 
 ## Credits
 
