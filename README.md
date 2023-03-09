@@ -48,9 +48,9 @@ To be able to:
 | Tues, Feb 28        | - Paths and distance  <br> - Vertex importance and centrality <br> **Lecture Slides:** [Network Analysis II](https://rstudio-conf-2022.github.io/people-analytics-rstats/materials/talks/6-graph_metrics.html)  | 
 | Thurs, March 2       | **Homework Due**: Graph your personal LinkedIn network (nodes are names of connections and their associated companies). <br> - Community detection  <br> - Assortativity and Similarity <br> **Lecture Slides:** [Network Analysis II](https://rstudio-conf-2022.github.io/people-analytics-rstats/materials/talks/6-graph_metrics.html) <br> **Code Starter:** [Example Solutions](https://rstudio-conf-2022.github.io/people-analytics-rstats/materials/module-exercises/06-Graph_metrics---SOLUTIONS.html) 
 | Tues, Mar 7      | -Community detection <br> **Lecture Slides:** [Network Analysis II](https://rstudio-conf-2022.github.io/people-analytics-rstats/materials/talks/6-graph_metrics.html) <br> **Code Starter:** [Example Solutions](https://rstudio-conf-2022.github.io/people-analytics-rstats/materials/module-exercises/06-Graph_metrics---SOLUTIONS.html) 
-| Thurs, Mar 9       |
-| Tues, Mar 14       |
-| Thurs, Mar 16       |
+| Thurs, Mar 9       | LinkedI Data Project
+| Tues, Mar 14       | LinkedI Data Project
+| Thurs, Mar 16       | Intellectual Property Graph Analytics Case Study <br> **DUE: HW2-LinkedI Data Project**
 
 ## Credits
 
